@@ -1,1 +1,1 @@
-Real-Time-Voice-Cloning project made by CorentinJ (https://github.com/CorentinJ/Real-Time-Voice-Cloning) and modified by group of students as university project.
+Real-Time-Voice-Cloning project made by CorentinJ (https://github.com/CorentinJ/Real-Time-Voice-Cloning) and modified by group of students as university project. We aim to clone Morgan Freeman's voice.
